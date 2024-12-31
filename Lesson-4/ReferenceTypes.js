@@ -16,3 +16,12 @@ const dev = {
 };
 
 // Array
+let arr = [1, 2, 3, 4, 5];
+console.log(arr[4]);
+
+// Function
+const func = (name) => {
+  console.log("Hello, nice to meet you " + name);
+};
+
+func("Nguyễn Phước Mạnh");
